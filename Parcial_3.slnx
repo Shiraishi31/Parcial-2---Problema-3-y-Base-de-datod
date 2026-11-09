@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/BaseDeDatos/">
+    <File Path="BaseDeDatos/01_CrearBaseDeDatos.sql" />
+    <File Path="BaseDeDatos/02_ConsultasAnalisis.sql" />
+    <File Path="BaseDeDatos/03_CrearUsuarioParcial.sql" />
+  </Folder>
+  <Folder Name="/Elementos de la solución/">
+    <File Path="README.md" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Punto1_Figuras/Punto1_Figuras.csproj" />
+  <Project Path="Punto2_Json/Punto2_Json.csproj" />
+  <Project Path="Punto3_LoginBCrypt/Punto3_LoginBCrypt.csproj" />
+</Solution>
